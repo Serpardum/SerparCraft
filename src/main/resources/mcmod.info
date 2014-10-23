@@ -1,0 +1,17 @@
+[
+{
+  "modid": "serparcraft",
+  "name": "SerparCraft",
+  "description": "A Mod that attempts to make a mobs difficulty more equal to the players fighting it.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/Serpardum/SerparCraft",
+  "updateUrl": "",
+  "authorList": [ "Serpardum" ],
+  "credits": "Serpardum",
+  "logoFile": "",
+  "screenshots": [],
+  "parent": "",
+  "dependencies": []
+}
+]

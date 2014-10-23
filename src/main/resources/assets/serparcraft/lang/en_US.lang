@@ -1,0 +1,13 @@
+# Keys
+keys.serparcraft.category=SerpCraft
+keys.serparcraft.charge=Charge
+keys.serparcraft.release=Release
+
+# Creative Tabs
+itemGroup.serparcraft=SerpCraft
+
+# Items
+item.serparcraft:mapleLeaf.name=Maple Leaf of Inner Turmoil
+
+# Blocks
+tile.serparcraft:flag.name=Canadian Flag of Derpiness

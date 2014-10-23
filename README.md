@@ -1,4 +1,4 @@
-SerparCraft
-===========
+SerpCraft
+=========
 
-Attempt to make mobs difficulty more equal to the skill of the players fighting.
+Minecraft Mod bringing level of mobs closer to level of player
